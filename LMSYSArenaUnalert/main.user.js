@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        LMSYS Arena Unalert
-// @match       https://*.lmsys.org/*
+// @name        Unalert Chatbot Arena (formerly LMSYS) 
+// @match       https://lmarena.ai/*
 // @grant       none
 // ==/UserScript==
 
